@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Ann Holmes
 
 # Your name to show in the footer
-author: Some Person
+author: Ann Holmes
 
 # --- List of links in the navigation bar --- #
 
@@ -39,12 +39,12 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "aholmes@ucdavis.edu"
+  #facebook: deanattali
+  #github: daattali
+  twitter: planktonherder
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
