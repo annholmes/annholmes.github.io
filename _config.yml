@@ -14,7 +14,9 @@ author: Ann Holmes
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me/Contact: "aboutme"
+  About Me: "aboutme"
+  Research: "research"
+  Undergraduate Projects: undergradprojects
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
