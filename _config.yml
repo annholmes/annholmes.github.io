@@ -14,13 +14,14 @@ author: Ann Holmes
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   My Research: "research"
-  Undergraduate Projects: undergradprojects
+  Undergraduate Research: "undergradresearch"
+  Teaching: "teaching"
+  Personal: "personal"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  Home: "https://annholmes.github.io"
+  GVL Page: "https://gvl.ucdavis.edu/people/ann-holmes"
 
 # --- Logo --- #
 
