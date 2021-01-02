@@ -14,11 +14,11 @@ author: Ann Holmes
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Contact"
+  About Me/Contact: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://annholmes.github.io"
+  Home: "https://annholmes.github.io"
 
 # --- Logo --- #
 
