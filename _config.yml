@@ -14,7 +14,12 @@ author: Ann Holmes
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  My Research: "research"
+  My Research:
+    - Delta Smelt eDNA: "deltasmelt"
+    - Suisun Marsh eDNA metabarcoding: "suisunmarsh"
+    - Bat diets: "bats"
+    - Putah Creek eDNA metabarcoding: "putahcreek"
+    - Marine Protected Areas: "mpa"
   Fieldwork: "fieldwork"
   Undergraduate Research: "undergradresearch"
   Teaching: "teaching"
