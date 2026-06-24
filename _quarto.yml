@@ -9,23 +9,28 @@ execute:
   freeze: auto
 
 website:
-  title: "My Website"
-  repo-url: https://github.com/nceas-learning-hub/2026_delta_week3
-  repo-actions: [issue]
+  title: "Ann's Website"
+  repo-url: https://github.com/annholmes
   navbar:
     background: primary
     left:
       - text: "Home"
         href: index.qmd
     right: 
+      - text: "About"
+        href: about.qmd
       - icon: github
-        href: https://github.com/nceas-learning-hub/2026_delta_week3
+        href: https://github.com/annholmes
   page-footer: 
-    center: "Copyright &copy; 2026, Delta Stewardship Council"
+    center: "Copyright &copy; 2026, Ann Holmes"
     background: secondary
 
 format:
   html:
+    theme:
+      light: theme_light.scss
+      dark: theme_dark.scss
+    mainfont: Open Sans
     toc: true
     link-external-newwindow: true
     link-external-icon: false
