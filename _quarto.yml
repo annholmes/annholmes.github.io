@@ -10,6 +10,7 @@ execute:
 
 website:
   title: "Ann's Website"
+  favicon: images/Hysterocarpus_traskii_Fig476.svg
   repo-url: https://github.com/annholmes
   navbar:
     background: primary
